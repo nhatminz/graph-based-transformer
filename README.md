@@ -1,5 +1,4 @@
-# # EEG Emotion Recognition using Spatial-Spectral Graph Transformer (SSGT)
-
+# EEG Emotion Recognition using Spatial-Spectral Graph Transformer (SSGT)
 ## Introduction
 
 This is an implementation of the **Spatial-Spectral Graph Transformer (SSGT)** method for emotion recognition from EEG signals. The model combines:
