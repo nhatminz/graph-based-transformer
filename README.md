@@ -177,7 +177,7 @@ In the Graph Attention Layer, positional bias helps the model understand spatial
 Attention(Q, K, V) = Softmax((QK^T / √d) + Bias_pos) V
 ```
 
-Có 3 loại bias:
+There are three types of bias:
 - **distance**: From physical distance (Gaussian kernel)
 - **correlation**: From correlation matrix
 - **learned**: Learnable parameters
